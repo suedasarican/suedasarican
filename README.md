@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hello! I'm Süeda 🌸
 
-<!--
-**suedasarican/suedasarican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="150">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Istanbul Medeniyet University**
+- **Computer Engineering Student (3rd Year)**
+- Learning, Coding & Creating every day 🎀
+
+<br>
+
+### Tech Stack & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-DB7093?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-DB7093?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FF1493?style=for-the-badge&logo=firebase&logoColor=white" />
+</div>
+
+<br>
+
+<p align="center">
+  <i>"Çalışıyorsa dokunma..."</i> 🤫
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/suedasarican/suedasarican/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
